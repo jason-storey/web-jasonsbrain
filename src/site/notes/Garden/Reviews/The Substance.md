@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Reviews/The Substance.md","permalink":"/reviews/the-substance/","tags":["review/movie"],"updated":"2024-10-22T03:59:40.246+01:00"}
+{"dg-publish":true,"dg-path":"Reviews/The Substance.md","permalink":"/reviews/the-substance/","tags":["review/movie"],"updated":"2024-10-22T04:08:34.940+01:00"}
 ---
 
 

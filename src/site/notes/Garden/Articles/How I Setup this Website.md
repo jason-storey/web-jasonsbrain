@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Articles/How I Setup this Website.md","permalink":"/articles/how-i-setup-this-website/","updated":"2024-10-22T01:14:45.756+01:00"}
+{"dg-publish":true,"dg-path":"Articles/How I Setup this Website.md","permalink":"/articles/how-i-setup-this-website/","tags":["article"],"updated":"2024-10-22T04:10:10.829+01:00"}
 ---
 
 
