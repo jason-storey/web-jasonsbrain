@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/articles/articles/","hide":true,"hideInGraph":true,"created":"2024-10-21T23:19:53.960+01:00","updated":"2024-10-22T01:02:43.693+01:00"}
+{"dg-publish":true,"permalink":"/garden/articles/articles/","hide":true,"hideInGraph":true,"updated":"2024-10-22T01:02:43.693+01:00"}
 ---
 
 

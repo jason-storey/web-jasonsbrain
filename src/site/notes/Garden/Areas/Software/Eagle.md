@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/areas/software/eagle/","tags":["software"],"created":"2024-10-21T23:23:32.328+01:00","updated":"2024-10-21T23:25:25.785+01:00"}
+{"dg-publish":true,"permalink":"/garden/areas/software/eagle/","tags":["software"],"updated":"2024-10-21T23:25:25.785+01:00"}
 ---
 
 

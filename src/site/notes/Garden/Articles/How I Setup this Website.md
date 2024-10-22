@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/articles/how-i-setup-this-website/","created":"2024-10-22T00:10:42.817+01:00","updated":"2024-10-22T01:14:45.756+01:00"}
+{"dg-publish":true,"permalink":"/garden/articles/how-i-setup-this-website/","updated":"2024-10-22T01:14:45.756+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@ https://github.com/oleeskild/obsidian-digital-garden
 Why this instead of obsidian publish? The main reason is that the static generated site will resolve dataview before it publishes meaning that I can keep all the fun dynamic links and tables. 
 This is a bit of a deal breaker to me as I want to keep things up to date with very little micro-management. 
 
-it might be a silly example but being able to say there are 11 notes in this website and that the number there is going to update as I plod along is very <span class="borf">satisfying</span>.
+it might be a silly example but being able to say there are 10 notes in this website and that the number there is going to update as I plod along is very <span class="borf">satisfying</span>.
 
 This video is a great introduction to how its all configured. 
 
