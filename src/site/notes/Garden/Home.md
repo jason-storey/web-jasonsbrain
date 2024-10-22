@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","hideInGraph":true,"tags":["gardenEntry"],"updated":"2024-10-22T03:31:23.420+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"tags":["gardenEntry"],"updated":"2024-10-22T03:31:23.420+01:00"}
 ---
 
 
@@ -17,6 +17,7 @@ Here are the last 10 things I wrote:
 | [[Garden/Articles/How I Setup this Website\|How I Setup this Website]]                     | The tools I used to create this website                                                                                                                                                                                   |
 | [[Garden/Articles/Software I Use\|Software I Use]]                                         | Its uh... software I use                                                                                                                                                                                                  |
 | [[Garden/Reviews/Reviews\|Reviews]]                                                        | Reviews I write of media I consume                                                                                                                                                                                        |
+| [[Garden/Reviews/The Substance\|The Substance]]                                            | A very Kronenbergian movie about our relationship with ageing beauty                                                                                                                                                      |
 | [[Garden/Youtube Videos/The Most Important Line of Code\|The Most Important Line of Code]] | A discussion on a projects 'entry point' or 'composition root' and the importance of knowing where the first line of code is to bootstrap a project correctly (and a demo of how I use a service locator to do just that) |
 | [[Garden/Youtube Videos/Youtube Video Ideas\|Youtube Video Ideas]]                         | Youtube videos I though of but have yet to really consider making                                                                                                                                                         |
 | [[Garden/Home\|Home]]                                                                      | E.T is on Speed Dial                                                                                                                                                                                                      |

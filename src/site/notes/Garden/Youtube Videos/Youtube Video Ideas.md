@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/youtube-videos/youtube-video-ideas/","hide":true,"hideInGraph":true,"updated":"2024-10-22T01:02:59.041+01:00"}
+{"dg-publish":true,"dg-path":"Youtube Videos/Youtube Video Ideas.md","permalink":"/youtube-videos/youtube-video-ideas/","hide":true,"hideInGraph":true,"updated":"2024-10-22T01:02:59.041+01:00"}
 ---
 
 

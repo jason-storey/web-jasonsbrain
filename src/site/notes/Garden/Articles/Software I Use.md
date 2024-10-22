@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/articles/software-i-use/","tags":["article"],"updated":"2024-10-21T23:27:20.038+01:00"}
+{"dg-publish":true,"dg-path":"Articles/Software I Use.md","permalink":"/articles/software-i-use/","tags":["article"],"updated":"2024-10-21T23:27:20.038+01:00"}
 ---
 
 
