@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"tags":["sitemap","gardenEntry"],"updated":"2024-10-23T02:51:13.808+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"tags":["sitemap","gardenEntry","gardenEntry"],"updated":"2024-10-23T02:51:13.808+01:00"}
 ---
 
 
@@ -21,9 +21,10 @@ collapse: closed
 
 
 
-| Title                    | description          | tags                      |
-| ------------------------ | -------------------- | ------------------------- |
-| [[Garden/Home\|Home]] | E.T is on Speed Dial | <ul><li>sitemap</li></ul> |
+| Title                                                           | description                 | tags                      |
+| --------------------------------------------------------------- | --------------------------- | ------------------------- |
+| [[Garden/Articles/Unity Project Setup\|Unity Project Setup]] | How I Setup a Unity Project | \-                        |
+| [[Garden/Home\|Home]]                                        | E.T is on Speed Dial        | <ul><li>sitemap</li></ul> |
 
 { .block-language-dataview}
 
