@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Articles/Unity Project Setup.md","permalink":"/articles/unity-project-setup/","updated":"2024-10-23T12:13:16.941+01:00"}
+{"dg-publish":true,"dg-path":"Articles/Unity Project Setup.md","permalink":"/articles/unity-project-setup/","tags":["article"],"updated":"2024-10-23T12:14:00.980+01:00"}
 ---
 
 

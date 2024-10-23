@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"tags":["sitemap","gardenEntry","gardenEntry"],"updated":"2024-10-23T02:51:13.808+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"tags":["sitemap","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-10-23T02:51:13.808+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@ I get asked to often enough that It's a muscle I should exercise. Here is a gene
 
 Some spots you might want to check out:
 
- - [[Garden/Articles/Articles\|Articles]] (2)
+ - [[Garden/Articles/Articles\|Articles]] (3)
  - [[Garden/Reviews/Reviews\|Reviews]] (1)
  - [[Garden/Articles/Software I Use\|Software I Use]] (2)
 
@@ -21,10 +21,11 @@ collapse: closed
 
 
 
-| Title                                                           | description                 | tags                      |
-| --------------------------------------------------------------- | --------------------------- | ------------------------- |
-| [[Garden/Articles/Unity Project Setup\|Unity Project Setup]] | How I Setup a Unity Project | \-                        |
-| [[Garden/Home\|Home]]                                        | E.T is on Speed Dial        | <ul><li>sitemap</li></ul> |
+| Title                                                           | description                                                          | tags                      |
+| --------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- |
+| [[Garden/Articles/Articles\|Articles]]                       | Any random thoughts I have that upgrade from rant to multi-page rant | <ul><li>sitemap</li></ul> |
+| [[Garden/Articles/Unity Project Setup\|Unity Project Setup]] | How I Setup a Unity Project                                          | <ul><li>article</li></ul> |
+| [[Garden/Home\|Home]]                                        | E.T is on Speed Dial                                                 | <ul><li>sitemap</li></ul> |
 
 { .block-language-dataview}
 
